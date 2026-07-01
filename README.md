@@ -31,3 +31,11 @@ Multi-agent design:
 ## Results
 - 70% reduction in manual effort
 - Automated end-to-end report generation pipeline
+- [entry-points.json](https://github.com/user-attachments/files/29550777/entry-points.json)
+[DataSaver.xaml.json](https://github.com/user-attachments/files/29550760/DataSaver.xaml.json)
+[project.json](https://github.com/user-attachments/files/29550737/project.json)
+[Main.xaml.json](https://github.com/user-attachments/files/29550733/Main.xaml.json)
+[~DataSaver.json](https://github.com/user-attachments/files/29550699/DataSaver.json)
+ [~DataExtractor.json](https://github.com/user-attachments/files/29550683/DataExtractor.json)
+[~InvoiceReader.json](https://github.com/user-attachments/files/29550672/InvoiceReader.json)
+
